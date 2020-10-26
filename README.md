@@ -3,15 +3,15 @@
 1. Source code folder structure
 explainable_ner_source_code  
 	|- data  
-		|- CoNLL-2003  
+	    |- CoNLL-2003  
 	|- src  
 	|- models  
-		|- ner  
-		|- glove.840B.300d  
+	    |- ner  
+	    |- glove.840B.300d  
 	|- models_improved  
-		|- ner  
+	    |- ner  
 	|- models_improved2  
-		|- ner  
+	    |- ner  
 
 2. Place all 3 files for training and testing data inside explainable_ner_source_code> data > CoNLL-2003
 3. Download glove embedding from http://nlp.stanford.edu/data/glove.840B.300d.zip and place in explainable_ner_source_code> models > glove.840B.300d
